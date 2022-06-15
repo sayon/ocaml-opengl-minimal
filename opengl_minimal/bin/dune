@@ -1,0 +1,5 @@
+(executable
+ (public_name opengl_minimal)
+ (name main)
+ (libraries opengl_minimal tgls tgls.tgl4 glfw-ocaml)
+)

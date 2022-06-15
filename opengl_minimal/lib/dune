@@ -1,0 +1,3 @@
+(library
+ (name opengl_minimal)
+ (libraries tgls tgls.tgl4 glfw-ocaml))
